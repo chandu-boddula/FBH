@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<div>
+    <a href="{% url 'index' %}"><button class="back-button" >← Back</button></a>
+</div>
+<form action="" method="post">
+    {% csrf_token %}
+    FROM ACCOUNT <input type="number" name="f_acc" id="">
+    <br><br>
+    TO ACCOUNT <input type="number" name="t_acc" id="">
+    <br><br>
+    PIN <input type="number" name="pin" id="">
+    <br><br>
+    AMT <input type="number" name="amt" id="">
+    <br><br>
+    <button type="submit" class="btn">SUBMIT</button>
+</form>
+<center>{{msg}}</center>
+
+
+{% endblock content %}
