@@ -23,31 +23,29 @@
 
 ## 🚀 Features
 
-1. CREATE ACCOUNT  
-2. WITHDRAW MONEY  
-3. DEPOSIT MONEY  
-4. CHECK BALANCE  
-5. PIN GENERATE  
-6. TRANSFER MONEY
+1. Home Page
+2. CREATE ACCOUNT
+3. PIN Generation
+4. OTP Validation 
+5. WITHDRAW MONEY  
+6. DEPOSIT MONEY  
+7. CHECK BALANCE   
+8. TRANSFER MONEY
 
 ## 🖼 Images
-
+### HOME PAGE
+![Image](https://github.com/user-attachments/assets/495ceadf-d401-47af-918a-163443660316)
 ### CREATE ACCOUNT
-
-![Create Account](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
-
+![Image](https://github.com/user-attachments/assets/5a4fe59e-46f0-4dff-845e-427c7c014057)
+### PIN GENERATION  
+![Image](https://github.com/user-attachments/assets/2a1d8703-322d-4d22-a6b8-7f0cbbb4b953)
+### OTP VALIDATION
+![Image](https://github.com/user-attachments/assets/e25f8777-1108-4073-97e0-80133058a956)
 ### DEPOSIT MONEY
-
-![Deposit](https://github.com/user-attachments/assets/9a50cd8d-673f-471f-a234-8d76cf37cb7b)
-
+![Image](https://github.com/user-attachments/assets/ada3ec69-45a5-4963-a55e-b3d0bded18be)
 ### WITHDRAW MONEY  
-![WITHDRAW](https://github.com/user-attachments/assets/39741126-cf1e-4e83-908e-0cf8823a530d)
-
-### CHECK BALANCE  
-![Check Balance](https://github.com/user-attachments/assets/c0d3d20f-d3e0-48ba-bf3e-6ebb840d9beb)
-
-### PIN GENERATE  
-![PIN Generate](https://github.com/user-attachments/assets/d7891a9c-15c8-4712-a617-1b689199996b)
-
+![Image](https://github.com/user-attachments/assets/dd796b2a-02e7-4ae3-9824-f56b9d96f7fd)
+### CHECK BALANCE 
+ ![Image](https://github.com/user-attachments/assets/cbff7fb0-1e7a-486a-ba43-20cff6713350)
 ### TRANSFER MONEY  
-![Transfer Money](https://github.com/user-attachments/assets/819ef707-2b69-4205-99bf-d4cb9474ffb8)
+![Image](https://github.com/user-attachments/assets/5c8bc16b-fad8-446b-ba9f-e7efedbf8a17)
