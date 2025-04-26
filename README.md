@@ -25,21 +25,19 @@
 
 1. Home Page
 2. CREATE ACCOUNT
-3. PIN Generation
-4. OTP Validation 
-5. WITHDRAW MONEY  
-6. DEPOSIT MONEY  
-7. CHECK BALANCE   
-8. TRANSFER MONEY
+3. PIN Generation & OTP Validation 
+4. WITHDRAW MONEY  
+5. DEPOSIT MONEY  
+6. CHECK BALANCE   
+7. TRANSFER MONEY
 
 ## 🖼 Images
 ### HOME PAGE
 ![Image](https://github.com/user-attachments/assets/495ceadf-d401-47af-918a-163443660316)
 ### CREATE ACCOUNT
 ![Image](https://github.com/user-attachments/assets/5a4fe59e-46f0-4dff-845e-427c7c014057)
-### PIN GENERATION  
+### PIN GENERATION & OTP VALIDATION 
 ![Image](https://github.com/user-attachments/assets/2a1d8703-322d-4d22-a6b8-7f0cbbb4b953)
-### OTP VALIDATION
 ![Image](https://github.com/user-attachments/assets/e25f8777-1108-4073-97e0-80133058a956)
 ### DEPOSIT MONEY
 ![Image](https://github.com/user-attachments/assets/ada3ec69-45a5-4963-a55e-b3d0bded18be)
